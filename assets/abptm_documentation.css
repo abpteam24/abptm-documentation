@@ -1,0 +1,5 @@
+@media only screen and (min-width: 10px) {
+	div.abp_team.documentation {max-width: 100%;font-size: 14px;}
+	div.abp_team.documentation p {margin: var(--space) 0;}
+	div.abp_team.documentation code { font-size: 87.5%; color: #E83E8C; word-wrap: break-word; }
+}
