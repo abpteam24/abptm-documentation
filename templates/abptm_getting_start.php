@@ -29,4 +29,17 @@
             <li>After successfully installing the plugin active it.</li>
         </ol>
     </div>
+    <div class="tabsItem" data-tabs="#abptm_menu">
+        <h3 class="_abp_text_theme">Menu</h3>
+        <div class="_divider"></div>
+        <ol class="_abp_list_mtb">
+            <li><strong class="_text_theme">Transportation & all transport : </strong>view all transport</li>
+            <li><strong class="_text_theme">add new transport : </strong>to add new transport click this</li>
+            <li><strong class="_text_theme">Category : </strong>create transport category like AC/Non-AC</li>
+            <li><strong class="_text_theme">Organizer : </strong>create transport Organizer like Flix</li>
+            <li><strong class="_text_theme">Configuration  : </strong>TO config transport click this menu</li>
+            <li><strong class="_text_theme">Traveler List  : </strong>Here you can see booking list , delete traveler, send mail, create traveler list pdf  and many other things.</li>
+            <li><strong class="_text_theme">Add Order  : </strong>Admin create order directly</li>
+        </ol>
+    </div>
 <?php
