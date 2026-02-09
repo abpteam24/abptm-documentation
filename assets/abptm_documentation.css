@@ -1,5 +1,5 @@
 @media only screen and (min-width: 10px) {
 	div.abptm_area.documentation {max-width: 100%;font-size: 14px;}
-	div.abptm_area.documentation p {margin: var(--space) 0;}
+	div.abptm_area.documentation p {margin: var(--tm_gap) 0;}
 	div.abptm_area.documentation code { font-size: 87.5%; color: #E83E8C; word-wrap: break-word; }
 }
