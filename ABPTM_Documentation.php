@@ -107,7 +107,7 @@
                                 </ul>
                                 <div class="tab_content">
                                     <!--    Getting Start -->
-                                    <div class="tabsItem" data-tabs="#abptm_getting_start">
+                                    <div class="tab_item" data-tabs="#abptm_getting_start">
                                         <h2 class="_abptm_color_theme">Documentation - TransportTicket - Bus, Ferry, Shuttle Booking</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Thank you so much for choosing our plugin <strong class="_abptm">TransportTicket - Bus, Ferry, Shuttle Booking</strong>.</i>
@@ -122,7 +122,7 @@
                                         <div class="_section_alert"><span class="_abptm">If you have any questions that are beyond the scope of this help file, don't hesitate to email through the  <a target="_blank" href="https://abp-wp.com/support-forum/">Item Support Page</a>.</span></div>
                                     </div>
                                     <!--    Credit -->
-                                    <div class="tabsItem" data-tabs="#abptm_credit">
+                                    <div class="tab_item" data-tabs="#abptm_credit">
                                         <h2 class="_abptm_color_theme">Documentation - Credit</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">All credit is due to the following:</i>
@@ -132,7 +132,7 @@
                                         </ol>
                                     </div>
                                     <!--    Features -->
-                                    <div class="tabsItem" data-tabs="#abptm_feature">
+                                    <div class="tab_item" data-tabs="#abptm_feature">
                                         <h3 class="_abptm_color_theme">Features</h3>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">There are several features available with this plugin. It is adequate to market a travel ticket. This is a summary of some of the features as of right now.</i>
@@ -166,7 +166,7 @@
                                         </ol>
                                     </div>
                                     <!--    Installation -->
-                                    <div class="tabsItem" data-tabs="#abptm_installation">
+                                    <div class="tab_item" data-tabs="#abptm_installation">
                                         <h3 class="_abptm_color_theme">Installation</h3>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">After downloading the full package from CodeCanyon, you will find the<code>abptm-transport-manager.zip</code> file inside your main package. Using the manual method, you can install it from the WordPress back-end.</i>
@@ -180,7 +180,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">You can install the ABP Team PDF Tools by going to Transportation>Configuration>Tools & Info. These utilities were created with mpdf tools specifically for PDF.</i>
                                     </div>
                                     <!--    Global Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_configuration">
+                                    <div class="tab_item" data-tabs="#abptm_configuration">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Global Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_text_color_1 _fs_label_mar_tb_d_block">Once you specify the global configuration, it will be applied to every vehicle . Local settings are more important than how they are displayed in the front end.</i>
@@ -189,7 +189,7 @@
                                         <div class="_mar_t" data-image-href="<?php echo esc_url(ABPTM_DOC_URL . '/') ?>image/5.0.0.tools.png"><img class="_img_control_reflex_6" src="#" alt="Global Configuration"></div>
                                     </div>
                                     <!--    Global Tools-->
-                                    <div class="tabsItem" data-tabs="#abptm_tools">
+                                    <div class="tab_item" data-tabs="#abptm_tools">
                                         <h2 class="_abptm_color_theme">Configuration: Tools Management & Information</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe basic information and tools</i>
@@ -210,14 +210,14 @@
                                         <div class="_mar_tb" data-image-href="<?php echo esc_url(ABPTM_DOC_URL . '/') ?>image/5.0.1.tools.png"><img class="_img_control_reflex_6" src="#" alt="Tools Management & Information"></div>
                                     </div>
                                     <!--    Global Stops-->
-                                    <div class="tabsItem" data-tabs="#abptm_stops">
+                                    <div class="tab_item" data-tabs="#abptm_stops">
                                         <h2 class="_abptm_color_theme">Configuration: Stops lists</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">I would appreciate it if you could add any type of stop. The starting point, dropping point, and pickup point are similar. </i>
                                         <div class="_mar_t" data-image-href="<?php echo esc_url(ABPTM_DOC_URL . '/') ?>image/5.1.stops_list.png"><img class="_img_control_reflex_6" src="#" alt="Stops lists"></div>
                                     </div>
                                     <!--    Global Form-->
-                                    <div class="tabsItem" data-tabs="#abptm_form">
+                                    <div class="tab_item" data-tabs="#abptm_form">
                                         <h2 class="_abptm_color_theme">Configuration: Traveller Form </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block"> To obtain information from travelers, please design your form. Which imports easily from any transport</i>
@@ -236,7 +236,7 @@
                                         </ol>
                                     </div>
                                     <!--    Global Additional-->
-                                    <div class="tabsItem" data-tabs="#abptm_additional">
+                                    <div class="tab_item" data-tabs="#abptm_additional">
                                         <h2 class="_abptm_color_theme">Configuration: Additional services </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here, you can create extra services that are either free or paid for and import them into any kind of transportation with ease. </i>
@@ -256,7 +256,7 @@
                                         </ol>
                                     </div>
                                     <!--    Global Transportation-->
-                                    <div class="tabsItem" data-tabs="#abptm_transportation">
+                                    <div class="tab_item" data-tabs="#abptm_transportation">
                                         <h2 class="_abptm_color_theme">Configuration: Transportation </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe Global Configuration of TransportTicket - Bus, Ferry, Shuttle Booking</i>
@@ -299,7 +299,7 @@
                                         </table>
                                     </div>
                                     <!--    Global Transport-->
-                                    <div class="tabsItem" data-tabs="#abptm_transport">
+                                    <div class="tab_item" data-tabs="#abptm_transport">
                                         <h2 class="_abptm_color_theme">Configuration: Transport </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe Global Configuration of Transport.</i>
@@ -330,7 +330,7 @@
                                         </table>
                                     </div>
                                     <!--    Global Layout-->
-                                    <div class="tabsItem" data-tabs="#abptm_layout">
+                                    <div class="tab_item" data-tabs="#abptm_layout">
                                         <h2 class="_abptm_color_theme">Configuration: Layout </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe Basic Layout Configuration of Transport.</i>
@@ -361,7 +361,7 @@
                                         </table>
                                     </div>
                                     <!--    Global Ticket-->
-                                    <div class="tabsItem" data-tabs="#abptm_ticket">
+                                    <div class="tab_item" data-tabs="#abptm_ticket">
                                         <h2 class="_abptm_color_theme">Configuration: Ticket </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe PDF Ticket Configuration of Transport.</i>
@@ -380,7 +380,7 @@
                                         </table>
                                     </div>
                                     <!--    Global PDF-->
-                                    <div class="tabsItem" data-tabs="#abptm_pdf">
+                                    <div class="tab_item" data-tabs="#abptm_pdf">
                                         <h2 class="_abptm_color_theme">Configuration: PDF </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These explain the fundamental arrangement of a PDF file (such as a passenger list, ticket, etc.).</i>
@@ -419,7 +419,7 @@
                                         </table>
                                     </div>
                                     <!--    Global List PDF-->
-                                    <div class="tabsItem" data-tabs="#abptm_traveller_pdf">
+                                    <div class="tab_item" data-tabs="#abptm_traveller_pdf">
                                         <h2 class="_abptm_color_theme">Configuration: Traveller Lists PDF </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are Traveller Lists Configuration of PDF file.</i>
@@ -502,7 +502,7 @@
                                         </table>
                                     </div>
                                     <!--    Global CSV-->
-                                    <div class="tabsItem" data-tabs="#abptm_csv">
+                                    <div class="tab_item" data-tabs="#abptm_csv">
                                         <h2 class="_abptm_color_theme">Configuration: Traveller Lists CSV</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are Traveller Lists Configuration of CSV file.</i>
@@ -577,7 +577,7 @@
                                         </table>
                                     </div>
                                     <!--    Global Mail-->
-                                    <div class="tabsItem" data-tabs="#abptm_email">
+                                    <div class="tab_item" data-tabs="#abptm_email">
                                         <h2 class="_abptm_color_theme">Configuration: E-Mail </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are customer E-Mail Configuration.</i>
@@ -655,7 +655,7 @@
                                         </table>
                                     </div>
                                     <!--    Global contact-->
-                                    <div class="tabsItem" data-tabs="#abptm_contact">
+                                    <div class="tab_item" data-tabs="#abptm_contact">
                                         <h2 class="_abptm_color_theme">Configuration: Contact Information </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe Contact Information Configuration .</i>
@@ -682,7 +682,7 @@
                                         </table>
                                     </div>
                                     <!--    Global Slider-->
-                                    <div class="tabsItem" data-tabs="#abptm_slider">
+                                    <div class="tab_item" data-tabs="#abptm_slider">
                                         <h2 class="_abptm_color_theme">Configuration: Slider </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe Slider Configuration .</i>
@@ -729,7 +729,7 @@
                                         </table>
                                     </div>
                                     <!--    Global css value-->
-                                    <div class="tabsItem" data-tabs="#abptm_css_value">
+                                    <div class="tab_item" data-tabs="#abptm_css_value">
                                         <h2 class="_abptm_color_theme">Configuration: CSS Value </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe CSS Value Configuration . </i>
@@ -809,7 +809,7 @@
                                         </table>
                                     </div>
                                     <!--    Menu -->
-                                    <div class="tabsItem" data-tabs="#abptm_menu">
+                                    <div class="tab_item" data-tabs="#abptm_menu">
                                         <h3 class="_abptm_color_theme">Menu</h3>
                                         <div class="_divider"></div>
                                         <ol class="_abptm_list_marin">
@@ -823,7 +823,7 @@
                                         </ol>
                                     </div>
                                     <!--    Menu Transport-->
-                                    <div class="tabsItem" data-tabs="#display_abptm_transport">
+                                    <div class="tab_item" data-tabs="#display_abptm_transport">
                                         <h2 class="_abptm_color_theme">Transportation / All Transport </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are the list of all Transport</i>
@@ -838,7 +838,7 @@
                                         </ol>
                                     </div>
                                     <!--    Add new Transport-->
-                                    <div class="tabsItem" data-tabs="#abptm_add_transport">
+                                    <div class="tab_item" data-tabs="#abptm_add_transport">
                                         <h2 class="_abptm_color_theme">Add new Transport</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here You can create a new Transport</i>
@@ -850,7 +850,7 @@
                                         </ol>
                                     </div>
                                     <!--    General Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_general">
+                                    <div class="tab_item" data-tabs="#abptm_post_general">
                                         <h2 class="_abptm_color_theme">General Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">These are describe transport general Information</i>
@@ -864,7 +864,7 @@
                                         </ol>
                                     </div>
                                     <!--    Date Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_date">
+                                    <div class="tab_item" data-tabs="#abptm_post_date">
                                         <h2 class="_abptm_color_theme">Date Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can control transport Operational day and date. </i>
@@ -898,7 +898,7 @@
                                         </ol>
                                     </div>
                                     <!--    Ticket Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_ticket">
+                                    <div class="tab_item" data-tabs="#abptm_post_ticket">
                                         <h2 class="_abptm_color_theme">Ticket Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can Config transport seat or ticket. we have only two types . seat plan and ticket </i>
@@ -941,7 +941,7 @@
                                         <div class="_section_alert"><strong class="_abptm">Note : </strong> Please config transport one by one. Accordingly, Ticket configuration > Route Configuration >Price Configuration</div>
                                     </div>
                                     <!--    Route Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_route">
+                                    <div class="tab_item" data-tabs="#abptm_route">
                                         <h2 class="_abptm_color_theme">Route Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can Config transport routing. Please flow below steps </i>
@@ -965,7 +965,7 @@
                                         <div class="_section_alert"><strong class="_abptm">Note : </strong> Please config transport one by one. Accordingly, Ticket configuration > Route Configuration >Price Configuration</div>
                                     </div>
                                     <!--    Price Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_price">
+                                    <div class="tab_item" data-tabs="#abptm_post_price">
                                         <h2 class="_abptm_color_theme">Price Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can Config transport Price. </i>
@@ -976,7 +976,7 @@
                                         <div class="_section_alert"><strong class="_abptm">Note : </strong> Please config transport one by one. Accordingly, Ticket configuration > Route Configuration >Price Configuration</div>
                                     </div>
                                     <!--    post Form Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_form">
+                                    <div class="tab_item" data-tabs="#abptm_post_form">
                                         <h2 class="_abptm_color_theme">Traveller Form Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can design Traveller Registration Form </i>
@@ -996,7 +996,7 @@
                                         </ol>
                                     </div>
                                     <!--    post Additional Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_additional">
+                                    <div class="tab_item" data-tabs="#abptm_post_additional">
                                         <h2 class="_abptm_color_theme">Additional services Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can design Additional services or Extra Service which payable Or Free. </i>
@@ -1018,7 +1018,7 @@
                                         </ol>
                                     </div>
                                     <!--    Slider Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_slider">
+                                    <div class="tab_item" data-tabs="#abptm_post_slider">
                                         <h2 class="_abptm_color_theme">Slider Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can design Slider. </i>
@@ -1030,7 +1030,7 @@
                                         </ol>
                                     </div>
                                     <!--    Tax Configuration-->
-                                    <div class="tabsItem" data-tabs="#abptm_post_tax">
+                                    <div class="tab_item" data-tabs="#abptm_post_tax">
                                         <h2 class="_abptm_color_theme">Tax Configuration</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can config Tax. </i>
@@ -1038,7 +1038,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">If you want to enable tax please enable woo-commerce tax. </i>
                                     </div>
                                     <!--    Menu Category-->
-                                    <div class="tabsItem" data-tabs="#abptm_category">
+                                    <div class="tab_item" data-tabs="#abptm_category">
                                         <h2 class="_abptm_color_theme">Menu : Category </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can design Transport Category </i>
@@ -1049,7 +1049,7 @@
                                         </ul>
                                     </div>
                                     <!--    Menu Organizer-->
-                                    <div class="tabsItem" data-tabs="#abptm_organizer">
+                                    <div class="tab_item" data-tabs="#abptm_organizer">
                                         <h2 class="_abptm_color_theme">Menu : Organizer </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Here you can design Transport Organizer </i>
@@ -1060,7 +1060,7 @@
                                         </ol>
                                     </div>
                                     <!--    Traveller List-->
-                                    <div class="tabsItem" data-tabs="#abptm_list">
+                                    <div class="tab_item" data-tabs="#abptm_list">
                                         <h2 class="_abptm_color_theme">Menu : Traveller List </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">You can find travelers very easily on this page. And you can download pdf and csv file, send mail to customer, cancel order etc.</i>
@@ -1097,7 +1097,7 @@
                                         </ol>
                                     </div>
                                     <!--    Add Order-->
-                                    <div class="tabsItem" data-tabs="#abptm_create_order">
+                                    <div class="tab_item" data-tabs="#abptm_create_order">
                                         <h2 class="_abptm_color_theme">Menu : Add Order </h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">This page is for admin only. Admin can directly book tickets from this page without payment.</i>
@@ -1112,7 +1112,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">There will be a new field from the frontend. That is: Mail & Ticket Send to .If the customer's email is given here, the order information and ticket will be sent to the customer's email</i>
                                     </div>
                                     <!--    shortcode -->
-                                    <div class="tabsItem" data-tabs="#abptm_shortcode">
+                                    <div class="tab_item" data-tabs="#abptm_shortcode">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Shortcode</h2>
                                         <div class="_divider"></div>
                                         <!--    Search shortcode -->
@@ -1210,7 +1210,7 @@
                                         <p>You can add this shortcode any page to show Ticket Download page , you can create it automatically from <strong>Configuration >tools &amp; Info</strong> Tab.</p>
                                     </div>
                                     <!--    Search shortcode -->
-                                    <div class="tabsItem" data-tabs="#abptm_search_page">
+                                    <div class="tab_item" data-tabs="#abptm_search_page">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Transport Search Shortcode</h2>
                                         <div class="_divider"></div>
                                         <pre>[<strong class="_abptm_color_theme">abptm-search</strong>]</pre>
@@ -1274,7 +1274,7 @@
                                         </ol>
                                     </div>
                                     <!--    Transport List shortcode -->
-                                    <div class="tabsItem" data-tabs="#abptm_list_page">
+                                    <div class="tab_item" data-tabs="#abptm_list_page">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Transport List Shortcode</h2>
                                         <div class="_divider"></div>
                                         <pre>[<strong class="_abptm_color_theme">abptm-list</strong>]</pre>
@@ -1316,7 +1316,7 @@
                                         <div class="_mar_tb" data-image-href="<?php echo esc_url(ABPTM_DOC_URL . '/') ?>image/1.6.list.png"><img class="_img_control_reflex_6" src="#" alt="list Shortcode"></div>
                                     </div>
                                     <!--    Route shortcode -->
-                                    <div class="tabsItem" data-tabs="#abptm_route_page">
+                                    <div class="tab_item" data-tabs="#abptm_route_page">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Route Shortcode</h2>
                                         <div class="_divider"></div>
                                         <pre>[<strong class="_abptm_color_theme">abptm-route</strong>]</pre>
@@ -1352,7 +1352,7 @@
                                         <div class="_mar_tb" data-image-href="<?php echo esc_url(ABPTM_DOC_URL . '/') ?>image/1.8.route.png"><img class="_img_control_reflex_6" src="#" alt="Route Shortcode"></div>
                                     </div>
                                     <!--   Download ticket shortcode -->
-                                    <div class="tabsItem" data-tabs="#abptm_download_ticket_page">
+                                    <div class="tab_item" data-tabs="#abptm_download_ticket_page">
                                         <h2 class="_abptm_color_theme">TransportTicket - Bus, Ferry, Shuttle Booking : Ticket Download page</h2>
                                         <div class="_divider"></div>
                                         <pre>[<strong class="_abptm_color_theme">abptm-ticket</strong>]</pre>
@@ -1365,7 +1365,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">From here the customer can view his order information and can download the ticket and check in.</i>
                                     </div>
                                     <!--    Templating -->
-                                    <div class="tabsItem" data-tabs="#abptm_template">
+                                    <div class="tab_item" data-tabs="#abptm_template">
                                         <h3 class="_abptm_color_theme">Templating</h3>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">If you would like to add or delete a class or modify the icons, for example, you may be required to customize some of the default information or design to yourself. We offer ABP-WWooCommerce Transport Manager's override feature. Thus, you can do it quickly and smartly.</i>
@@ -1374,7 +1374,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">To change you must have enough knowledge to know what you change.</i>
                                     </div>
                                     <!--    Translate -->
-                                    <div class="tabsItem" data-tabs="#abptm_translate">
+                                    <div class="tab_item" data-tabs="#abptm_translate">
                                         <h3 class="_abptm_color_theme">Translate</h3>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Can be translated by many WordPress plugins. We ask you to use the Loco Translate plugin</i>
@@ -1385,7 +1385,7 @@
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">Remember, put your translation file in another dir. Otherwise, your translations will be lost when the plugin is updated</i>
                                     </div>
                                     <!--    License -->
-                                    <div class="tabsItem" data-tabs="#abptm_license">
+                                    <div class="tab_item" data-tabs="#abptm_license">
                                         <h2 class="_abptm_color_theme">Retrieve your license key</h2>
                                         <div class="_divider"></div>
                                         <i class="_color_light_3_fs_label_mar_tb_d_block">To obtain your license key for the product, please follow these comprehensive steps__</i>
